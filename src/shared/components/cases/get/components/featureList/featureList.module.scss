@@ -1,0 +1,45 @@
+.feature {
+  display: flex;
+  flex-direction: column;
+  padding-top: 24px;
+
+  &__item {
+    border-radius: 8px;
+    padding-block: 30px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #CDCDCD;
+    justify-content: flex-start;
+    gap: 98px;
+  }
+
+  &__number {
+    background-color: #576EC2;
+    color: #FFF;
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+    font-size: 18px;
+  }
+
+  &__title {
+    font-weight: bold;
+    font-size: 36px;
+    width: 380px;
+    white-space: pre-line;
+  }
+
+  &__description {
+    font-size: 14px;
+    color: #1E1E1E;
+    white-space: pre-line;
+  }
+
+  &__title span {
+    color: #1648FF;
+  }
+}

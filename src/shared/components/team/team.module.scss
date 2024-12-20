@@ -1,0 +1,33 @@
+.team {
+  padding-bottom: 24px;
+
+  &__container {
+    background-color: #F0F5FF;
+    border-radius: 20px;
+    padding: 48px 0 0 48px;
+  }
+
+  &__box {
+    display: flex;
+    justify-content: space-between;
+
+    &_text {
+      padding-top: 28px;
+      font-size: 20px;
+      color: #041A6A;
+      white-space: pre-line;
+    }
+  }
+  span {
+    display: block;
+  }
+}
+
+.founder {
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 24px;
+  }
+}

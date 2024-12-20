@@ -1,0 +1,36 @@
+//@import '@/styles/globals.scss';
+
+.header {
+  padding: 24px 0;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F0F5FF;
+    padding-block: 12px;
+    padding-inline: 38px 12px;
+    border-radius: 20px;
+  }
+
+  &__menu {
+    &_link {
+      //color: $primary-color;
+      color: #0024A7;
+
+      &:not(:first-child) {
+        margin-left: 55px;
+      }
+    }
+  }
+
+  .button {
+    font-size: 16px;
+    background-color: #1648FF;
+    padding: 15px 38px;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+}

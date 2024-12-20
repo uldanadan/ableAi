@@ -1,0 +1,26 @@
+.card {
+  background-color: #576EC2;
+  border-radius: 20px;
+  padding: 24px;
+  width: 282px;
+  height: 400px;
+  color: #fff;
+  box-sizing: border-box;
+
+  &__number {
+    font-size: 18px;
+    font-weight: 300;
+  }
+
+  &__title {
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 18px;
+    margin-top: 175px;
+  }
+
+  &__description {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}

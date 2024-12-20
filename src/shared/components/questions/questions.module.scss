@@ -1,0 +1,45 @@
+.questions {
+  padding-block: 72px;
+
+  &__container {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 24px;
+  }
+
+  &__box {
+    &_title {
+      font-size: 18px;
+      white-space: pre-line;
+    }
+
+    &_text {
+      font-size: 12px;
+      white-space: pre-line;
+    }
+
+    &_form {
+      display: flex;
+      align-items: center;
+      padding-block: 40px 16px;
+      gap: 16px;
+    }
+  }
+  .input {
+    width: 364px;
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+
+  .button {
+    background-color: #1648FF;
+    color: white;
+    border: 1px solid black;
+    font-size: 16px;
+    border-radius: 10px;
+    padding: 12px 24px;
+    cursor: pointer;
+  }
+}

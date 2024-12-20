@@ -1,0 +1,18 @@
+.works {
+  padding-block: 24px;
+
+  &__block {
+    background-color: #f0f5ff;
+    margin-top: 24px;
+  }
+
+  &__cards {
+    display: flex;
+    gap: 24px;
+    padding-block: 24px;
+  }
+
+  & img {
+    border-radius: 20px;
+  }
+}

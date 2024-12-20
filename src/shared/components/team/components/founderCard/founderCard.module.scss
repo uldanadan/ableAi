@@ -1,0 +1,37 @@
+.founder {
+  background-color: #F0F5FF;
+  border-radius: 10px;
+  width: 384px;
+
+  &-card {
+    display: flex;
+    padding-top: 24px;
+
+    &__name {
+      color: #0024A7;
+      font-size: 20px;
+      font-weight: bold;
+    }
+
+    &__role {
+      font-weight: normal;
+    }
+
+    &__description {
+      color: #041A6A;
+      font-size: 12px;
+      padding: 12px 0 0 15px;
+      white-space: pre-line;
+    }
+
+    &__additional-info {
+      background-color: #1648FF;
+      font-size: 12px;
+      color: white;
+      text-align: center;
+      padding-block: 9px;
+      border-bottom-right-radius: 6px;
+      border-bottom-left-radius: 6px;
+    }
+  }
+}

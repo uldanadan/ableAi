@@ -1,0 +1,35 @@
+.footer {
+  padding: 24px 0;
+  background-color: #F1F2F3;
+
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 600;
+  }
+
+  &__menu {
+    &_link {
+      font-size: 13px;
+      color: #232323;
+
+      &:not(:first-child) {
+        margin-left: 24px;
+      }
+    }
+  }
+
+  .button {
+    border: none;
+    background-color: transparent;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    .icon {
+      margin-left: 4px;
+    }
+  }
+}

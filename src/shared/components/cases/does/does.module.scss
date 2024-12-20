@@ -1,0 +1,8 @@
+.does {
+  padding-block: 24px;
+  &__card {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 24px;
+  }
+}

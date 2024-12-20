@@ -1,0 +1,136 @@
+{
+  "header": {
+    "about": "About Us",
+    "how_it_works": "How it works?",
+    "cases": "Cases",
+    "contacts": "Contacts",
+    "try_free": "Try for free"
+  },
+
+  "intro": {
+    "accessible": "Affordable",
+    "price": "price",
+    "communication": "communication",
+    "immigration": "immigration",
+    "description": "Able AI is an AI-powered platform that helps you apply for EB-1 and EB-2 Green \nCards faster and more affordably than with a lawyer."
+  },
+
+  "team": {
+    "title": "We are a team of immigrants \nwho have received approval \nfor EB-1 and EB-2 visas",
+    "text": "so we uniquely understand our clients' challenges. Our \nmission is to help qualified professionals obtain their \nGreen Cards without stress or high costs. \n\nThe AI era has allowed us to make this dream a reality! \nBe our next success story!"
+  },
+  "founders": {
+    "ablay": {
+      "description": [
+        "University of Washington master \nof entrepreneurship",
+        "Entrepreneur with 5 years of \nexperience",
+        "Founder of Able Online Academy \nwith 1200+ students",
+        "Founder of Qazcod, an agency for \nrelocation and employment in the \nU.S."
+      ],
+      "additionalInfo": "Obtained EB-1 with the help of Able AI"
+    },
+    "anel": {
+      "description": [
+        "Marketing specialist with 7 \nyears of experience",
+        "Ex-CMO of Able Online \nAcademy",
+        "Co-Founder of Qazcod, an \nagency for relocation and \nemployment in the U.S."
+      ],
+      "additionalInfo": "Obtained EB-1 with the help of Able AI"
+    },
+    "sergazy": {
+      "description": [
+        "Machine Learning Specialist \nat Overstock.com",
+        "PhD, University of Utah"
+      ],
+      "additionalInfo": "Obtained EB-2 "
+    }
+  },
+
+  "does": {
+    "title": "What able AI does:",
+    "card1": {
+      "title": "Replaces",
+      "description": "Replaces an immigration attorney,\nsaving you $10 000"
+    },
+    "card2": {
+      "title": "Builds",
+      "description": "Builds your case for an EB-1/EB-2\nGreen Card"
+    },
+    "card3": {
+      "title": "Evaluates",
+      "description": "Evaluates your chances of getting a\nGreen Card"
+    },
+    "card4": {
+      "title": "Fills",
+      "description": "Fills out the petition for you and\nhelps gather all necessary\ndocuments"
+    }
+  },
+
+  "get": {
+    "title": "What do you get?",
+    "feature1": {
+      "title": "Cost Savings of\nat least  <span>5 times</span>",
+      "description": "*On average, U.S. immigration attorneys charge $10,000"
+    },
+    "feature2": {
+      "title": "<span>Time</span> Savings",
+      "description": "*In the U.S., immigration attorneys typically take 3–6 months to \nbuild an EB-1/2 case"
+    },
+    "feature3": {
+      "title": "Higher <span>Approval</span> Chances",
+      "description": "*The platform builds your case based on thousands of previously \napproved petitions"
+    },
+    "feature4": {
+      "title": "<span>24/7</span> Feedback",
+      "description": "*ABL AI responds to questions immediately, whereas attorneys \nusually respond within a day"
+    }
+  },
+
+  "works": {
+    "title": "",
+    "cart1": {
+      "title": "Evaluate Your Chances",
+      "text": "It takes 2 minutes"
+    },
+    "cart2": {
+      "title": "Consultation",
+      "text": "Get a case plan from an expert"
+    },
+    "cart3": {
+      "title": "Upload Documents",
+      "text": "A user-friendly platform interface for \nfile submission."
+    },
+    "cart4": {
+      "title": "Legal Review",
+      "text": "Ensure the accuracy of your \ndocuments."
+    },
+    "cart5": {
+      "title": "Document Preparation \nand Submission",
+      "text": "We handle all submissions for you."
+    },
+    "cart6": {
+      "title": "Track Progress",
+      "text": "Track Progress in real time"
+    },
+    "cart7": {
+      "title": "Appeals Support",
+      "text": "In case of a denial or request for additional \nevidence, we handle it for you"
+    }
+  },
+
+  "questions": {
+    "title": "Any questions?",
+    "text": "Leave your email, and we will get in touch with you to answer \nall your questions.",
+    "placeholder": "Enter your email",
+    "button": "Submit",
+    "textMini": "By clicking the 'Submit' button, you confirm your agreement with our Terms and \nConditions."
+  },
+
+  "footer": {
+    "disclaimer": "Disclaimer",
+    "terms_of_use": "Terms of services",
+    "privacy_policy": "Privacy Policy",
+    "back_to_top": "Back to top",
+    "copyright": "© 2024 ableAI"
+  }
+}

@@ -1,0 +1,45 @@
+.custom-select {
+  position: relative;
+  display: inline-block;
+  margin-right: 24px;
+
+  &__button {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    color: #0024A7;
+    cursor: pointer;
+  }
+
+  &__arrow {
+    background-image: url('../../../../../assets/img/caret_down.svg');
+    width: 20px;
+    height: 20px;
+    margin-left: 6px;
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+
+  &__options {
+    position: absolute;
+    margin: 3px 0 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    list-style: none;
+  }
+
+  &__option {
+    padding: 15px;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+  }
+  &__option.selected {
+    background-color: #f0f5ff;
+    color: #0024A7;
+  }
+}
