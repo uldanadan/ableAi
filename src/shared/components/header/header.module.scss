@@ -1,5 +1,3 @@
-//@import '@/styles/globals.scss';
-
 .header {
   padding: 24px 0;
 
@@ -15,7 +13,6 @@
 
   &__menu {
     &_link {
-      //color: $primary-color;
       color: #0024A7;
 
       &:not(:first-child) {
